@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+p{
+    background: blue;
+    padding: 20px;
+}
+table{
+    background: blue;
+    color: white;
+    border: 3px solid violet;
+}
+th{
+    border: 3px solid violet;
+}
